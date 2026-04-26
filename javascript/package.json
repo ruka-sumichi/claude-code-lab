@@ -1,0 +1,17 @@
+{
+  "name": "claude-code-lab-js",
+  "version": "1.0.0",
+  "description": "JavaScript/TypeScript test environment for Claude Code Lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "@types/jest": "^29.0.0"
+  }
+}
